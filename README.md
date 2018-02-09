@@ -56,15 +56,11 @@ Please feel free to send me pull requests or email (mrashad74@gmail.com) to add 
 
 ### Laser Cutting
 - [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
-- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [Laser Cutting Guide for Manufacturing](https://www.amazon.com/Laser-Cutting-Manufacturing-Charles-Caristan/dp/0872636860)
+- [Lasers : Cutting Edge Technology](https://www.amazon.com/Lasers-Cutting-Edge-Technology-James-Bow/dp/1482451646/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=1482451646&pd_rd_r=D44HVTP4C5PCSXQDT3MA&pd_rd_w=dQF2v&pd_rd_wg=crvsQ&psc=1&refRID=D44HVTP4C5PCSXQDT3MA)
+- [Creating with Laser Cutters and Engravers](https://www.amazon.com/Creating-Cutters-Engravers-Getting-Creative/dp/1499465041/ref=pd_sbs_14_3?_encoding=UTF8&pd_rd_i=1499465041&pd_rd_r=D44HVTP4C5PCSXQDT3MA&pd_rd_w=dQF2v&pd_rd_wg=crvsQ&psc=1&refRID=D44HVTP4C5PCSXQDT3MA)
+- [The Laser Cutting Process](https://www.elsevier.com/books/the-laser-cutting-process/yilbas/978-0-12-812982-1)
+- [3D Printing and Laser Cutting](https://www.amazon.co.uk/Printing-Laser-Cutting-Jeff-Geary/dp/0711038414/ref=pd_sbs_14_1/259-9376717-6235011?_encoding=UTF8&psc=1&refRID=PJ42SJ368537RAD4GHNG)
 
 # Courses
 
