@@ -55,26 +55,90 @@ Please feel free to send me pull requests or email (mrashad74@gmail.com) to add 
 
 
 ### Laser Cutting
-[CO2 Laser Cutting ](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
+- [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
 
 # Courses
 
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
+
 # Papers
+
+
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
 
 # Software
 
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
+
 # Hardware
+
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
 
 # Tutorials
 
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
+
 # Talks
+
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
 
 # Blogs
 
+
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
+
 # Links
 
-# Miscellaneous
 
-
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
 
 
