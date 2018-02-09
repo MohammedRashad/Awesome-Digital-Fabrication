@@ -16,8 +16,7 @@ Please feel free to send me pull requests or email (mrashad74@gmail.com) to add 
 - Tutorials
 - Talks
 - Blogs
-- Links
-- Miscellaneous
+- Open Source Designs
 
 # Books
 
@@ -73,7 +72,6 @@ WIP
 
 # Papers
 
-
 ### 3D Printing 
 WIP
 ### CNC Machining
@@ -108,36 +106,44 @@ WIP
 ### Laser Cutting 
 WIP
 
-# Talks
-
-### 3D Printing 
-WIP
-### CNC Machining
-WIP
-### Laser Cutting 
-WIP
-
 # Blogs
 
-
 ### 3D Printing 
-WIP
+
+- [I-Materialize](https://i.materialise.com/blog)
+- [Simplify 3D](https://www.simplify3d.com/blog/)
+- [Sculpteo](https://www.sculpteo.com/blog/)
+- [3d Printing For Beginners](https://3dprintingforbeginners.com/blog/)
+- [Stratasys Blog](blog.stratasys.com/)
+- [3ders.org](3ders.org)
+- [fabbaloo](www.fabbaloo.com/)
+
 ### CNC Machining
-WIP
+
+- [Be A Better CNC'er](https://www.cnccookbook.com/category/blog/)
+- [okuma](https://www.okuma.com/cnc-blog)
+- [CNC Masters](https://www.cncmasters.com/blog/)
+- [CNC Router Source](www.cncroutersource.com/CNC-router-blog.html)
+- [CNC Router Tips](www.cncroutertips.com/blog/)
+
 ### Laser Cutting 
-WIP
 
-# Links
+- [Industrial Lasers](https://www.industrial-lasers.com/index.html)
+- [Laser Focus World](https://www.laserfocusworld.com/index.html)
+- [Laser Marking Systems](https://www.lasermarkingsystems.net/)
+- [Laser Cut Design Laboratory](https://lasercutdesignlab.blogspot.com/)
+- [MS Rayns Ford](https://msraynsford.blogspot.com/)
+- [Fab Tech](https://www.fabtechexpo.com/blog/)
 
 
-### 3D Printing 
-WIP
-### CNC Machining
-WIP
-### Laser Cutting 
-WIP
+# Open Source Designs
+
+- [Grab CAD](https://grabcad.com/)
+- [Thingsverse](https://www.thingiverse.com/)
+- [Hackaday](hackaday.com)
 
 # License 
 
 ![CC0](https://camo.githubusercontent.com/c5160f944848828fa33126d9a697e9abe43ea98f/687474703a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f702f7a65726f2f312e302f38387833312e706e67)
+
 This Project is signed under the creative commons license.
