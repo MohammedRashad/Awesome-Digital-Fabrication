@@ -1,4 +1,5 @@
-# Awesome Digital Fabrication
+# Awesome Digital Fabrication [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of awesome resources, software, and hardware that runs the digital fabrication industry.
 
 # Contributing
@@ -54,7 +55,7 @@ Please feel free to send me pull requests or email (mrashad74@gmail.com) to add 
 
 
 ### Laser Cutting
-
+[CO2 Laser Cutting ](www.springer.com/gp/book/9781447133841)
 
 # Courses
 
