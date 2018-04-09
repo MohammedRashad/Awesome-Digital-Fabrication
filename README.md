@@ -106,6 +106,16 @@ WIP
 ### Laser Cutting 
 WIP
 
+# Talks
+
+### 3D Printing 
+WIP
+### CNC Machining
+WIP
+### Laser Cutting 
+WIP
+
+
 # Blogs
 
 ### 3D Printing 
@@ -134,7 +144,6 @@ WIP
 - [Laser Cut Design Laboratory](https://lasercutdesignlab.blogspot.com/)
 - [MS Rayns Ford](https://msraynsford.blogspot.com/)
 - [Fab Tech](https://www.fabtechexpo.com/blog/)
-
 
 # Open Source Designs
 
