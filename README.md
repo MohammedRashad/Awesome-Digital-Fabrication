@@ -149,7 +149,7 @@ WIP
 
 - [Grab CAD](https://grabcad.com/)
 - [Thingsverse](https://www.thingiverse.com/)
-- [Hackaday](hackaday.com)
+- [Hackaday](https://hackaday.com)
 
 # License 
 
