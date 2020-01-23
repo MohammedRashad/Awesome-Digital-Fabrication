@@ -24,7 +24,7 @@ Please feel free to send me pull requests or email (mrashad74@gmail.com) to add 
 - [The Zombie Apocalypse Guide to 3D Printing](http://3dprintingforbeginners.com/books/the-zombie-apocalypse-guide-to-3d-printing/)
 - [Maintaining and Troubleshooting Your 3D Printer](http://3dprintingforbeginners.com/books/maintaining-and-troubleshooting-your-3d-printer/)
 - [Getting Started with 3D Printing: A Hands-on Guide to the Hardware, Software, and Services Behind the New Manufacturing Revolution](http://3dprintingforbeginners.com/books/getting-started-with-3d-printing/)
-- [Design for 3D Printing: Scanning, Creating, Editing, Remixing, and Making in Three Dimensions](http://3dprintingforbeginners.com/books/make-design-for-3d-printing/)
+- [Design for 3D Printing: Scanning, Creating, Editing, Remixing, and Making in Three Dimensions](http://3dprintingforbeginners.com/books/make-design-for-3d-printing/)م
 - [3D Printing Projects: Toys, Bots, Tools, and Vehicles To Print Yourself](http://3dprintingforbeginners.com/books/3d-printing-projects-toys-bots-tools/)
 - [3D Printing For Dummies](http://3dprintingforbeginners.com/books/3d-printing-for-dummies/)
 - [Mastering 3D Printing](http://3dprintingforbeginners.com/books/mastering-3d-printing-technology-in-action/)
@@ -53,7 +53,7 @@ Please feel free to send me pull requests or email (mrashad74@gmail.com) to add 
 - [Inexpensive Cnc Projects: Build Your Own Cnc Machine](http://3dprintingforbeginners.com/books/practical-3d-printers-the-science-and-art-of-3d-printing/)
 
 
-### Laser Cutting
+### Laser Cutting Machines
 - [CO2 Laser Cutting](www.springer.com/gp/book/9781447133841)
 - [Laser Cutting Guide for Manufacturing](https://www.amazon.com/Laser-Cutting-Manufacturing-Charles-Caristan/dp/0872636860)
 - [Lasers : Cutting Edge Technology](https://www.amazon.com/Lasers-Cutting-Edge-Technology-James-Bow/dp/1482451646/ref=pd_sbs_14_2?_encoding=UTF8&pd_rd_i=1482451646&pd_rd_r=D44HVTP4C5PCSXQDT3MA&pd_rd_w=dQF2v&pd_rd_wg=crvsQ&psc=1&refRID=D44HVTP4C5PCSXQDT3MA)
