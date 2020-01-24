@@ -64,7 +64,13 @@ Please feel free to send me pull requests or email (mrashad74@gmail.com) to add 
 # Courses
 
 ### 3D Printing 
-WIP
+
+- [3D Printing Software](https://www.coursera.org/learn/3d-printing-software)
+- [3D Printing Revolution](https://www.coursera.org/learn/3d-printing-revolution)
+- [3D Print Hardware](https://www.coursera.org/learn/3d-print-hardware)
+- [3D Printing Applications](https://www.coursera.org/learn/3d-printing-applications)
+
+
 ### CNC Machining
 WIP
 ### Laser Cutting 
